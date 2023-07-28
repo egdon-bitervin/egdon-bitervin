@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 https://dsp.institute
 
 - PigPigGo Updated
-https://dsp.institute/pigpiggo
+https://pigpiggo.re
